@@ -56,7 +56,3 @@
 <a href="https://github.com/roshankcpkr">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roshankcpkr&show_icons=true&theme=light&line_height=27" alt="Roshan's github stats"/>
 </a>
-<a href="https://github.com/roshankcpkr/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roshankcpkr&repo=FlutterExampleApps&theme=light" />
-
-</a>
