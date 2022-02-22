@@ -61,9 +61,4 @@
 
 </a>
 
-<div align="center">
-
-
-
-</div>
 
