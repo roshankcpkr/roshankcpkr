@@ -33,7 +33,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankcpkr&label=Profile%20views&color=0e75b6&style=flat" alt="roshankcpkr" /> </p>
 
-- 🔭 I’m currently working on [thetechrim](https://thetechrim.com/)[toptechpal](https://toptechpal.com/).
+- 🔭 I’m currently working on [thetechrim](https://thetechrim.com/) [toptechpal](https://toptechpal.com/).
 - 🌱 I’m currently learning more about Flutter.
 - 👯 I’m looking to collaborate on [Website](https://toptechpal.com).
 - 🤔 I’m looking for help with Smart contracts.
