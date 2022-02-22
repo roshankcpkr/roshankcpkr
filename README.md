@@ -33,12 +33,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankcpkr&label=Profile%20views&color=0e75b6&style=flat" alt="roshankcpkr" /> </p>
 
-- 🔭 I’m currently working on [toptechpal and thetechrim](https://thetechrim.com/)(https://toptechpal.com/).
+- 🔭 I’m currently working on [thetechrim](https://thetechrim.com/)[toptechpal](https://toptechpal.com/).
 - 🌱 I’m currently learning more about Flutter.
 - 👯 I’m looking to collaborate on [Website](https://toptechpal.com).
 - 🤔 I’m looking for help with Smart contracts.
 - 💬 Ask me about Javascript or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @notroshankc](https://twitter.com/notroshankc) , [Website - toptechpal](admin@toptechpal.com)
+- 📫 How to reach me: [Twitter - @notroshankc](https://twitter.com/notroshankc) , [Email](mailto:admin@toptechpal.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact **I ran 2 month web development bootcamp for free.**
 
