@@ -33,9 +33,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankcpkr&label=Profile%20views&color=0e75b6&style=flat" alt="roshankcpkr" /> </p>
 
-- 🌱 I’m currently learning more about Web3.
+- 🌱 I’m currently learning more about machine learning.
 - 👯 I’m looking to collaborate on Personal projects.
-- 🤔 I’m looking for help with Smart contracts.
+- 🤔 I’m looking for help with machine learning.
 - 💬 Ask me about Javascript or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @notroshankc](https://twitter.com/notroshankc)
 - 😄 Pronouns: He/His
